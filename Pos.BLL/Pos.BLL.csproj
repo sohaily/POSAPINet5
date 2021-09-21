@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Pos.DAL\Pos.DAL.csproj" />
+    <ProjectReference Include="..\Pos.Entities\Pos.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

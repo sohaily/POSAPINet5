@@ -1,0 +1,12 @@
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.Entities\bin\Release\net5.0\Pos.Entities.deps.json
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.Entities\bin\Release\net5.0\Pos.Entities.dll
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.Entities\bin\Release\net5.0\ref\Pos.Entities.dll
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.Entities\bin\Release\net5.0\Pos.Entities.pdb
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.Entities\obj\Release\net5.0\Pos.Entities.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.Entities\obj\Release\net5.0\Pos.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.Entities\obj\Release\net5.0\Pos.Entities.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.Entities\obj\Release\net5.0\Pos.Entities.AssemblyInfo.cs
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.Entities\obj\Release\net5.0\Pos.Entities.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.Entities\obj\Release\net5.0\Pos.Entities.dll
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.Entities\obj\Release\net5.0\ref\Pos.Entities.dll
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.Entities\obj\Release\net5.0\Pos.Entities.pdb

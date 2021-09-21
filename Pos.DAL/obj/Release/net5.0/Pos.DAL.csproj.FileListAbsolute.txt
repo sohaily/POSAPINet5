@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.DAL\bin\Release\net5.0\Pos.DAL.deps.json
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.DAL\bin\Release\net5.0\Pos.DAL.dll
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.DAL\bin\Release\net5.0\ref\Pos.DAL.dll
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.DAL\bin\Release\net5.0\Pos.DAL.pdb
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.DAL\bin\Release\net5.0\Pos.Entities.dll
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.DAL\bin\Release\net5.0\Pos.Entities.pdb
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.DAL\obj\Release\net5.0\Pos.DAL.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.DAL\obj\Release\net5.0\Pos.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.DAL\obj\Release\net5.0\Pos.DAL.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.DAL\obj\Release\net5.0\Pos.DAL.AssemblyInfo.cs
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.DAL\obj\Release\net5.0\Pos.DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.DAL\obj\Release\net5.0\Pos.DAL.csproj.CopyComplete
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.DAL\obj\Release\net5.0\Pos.DAL.dll
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.DAL\obj\Release\net5.0\ref\Pos.DAL.dll
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.DAL\obj\Release\net5.0\Pos.DAL.pdb

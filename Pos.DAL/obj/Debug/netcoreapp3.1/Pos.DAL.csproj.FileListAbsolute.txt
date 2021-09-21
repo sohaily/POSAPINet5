@@ -1,0 +1,8 @@
+C:\Users\m.waqas\source\repos\PosApplication\Pos.DAL\bin\Debug\netcoreapp3.1\Pos.DAL.deps.json
+C:\Users\m.waqas\source\repos\PosApplication\Pos.DAL\bin\Debug\netcoreapp3.1\Pos.DAL.dll
+C:\Users\m.waqas\source\repos\PosApplication\Pos.DAL\bin\Debug\netcoreapp3.1\Pos.DAL.pdb
+C:\Users\m.waqas\source\repos\PosApplication\Pos.DAL\obj\Debug\netcoreapp3.1\Pos.DAL.AssemblyInfoInputs.cache
+C:\Users\m.waqas\source\repos\PosApplication\Pos.DAL\obj\Debug\netcoreapp3.1\Pos.DAL.AssemblyInfo.cs
+C:\Users\m.waqas\source\repos\PosApplication\Pos.DAL\obj\Debug\netcoreapp3.1\Pos.DAL.csproj.CoreCompileInputs.cache
+C:\Users\m.waqas\source\repos\PosApplication\Pos.DAL\obj\Debug\netcoreapp3.1\Pos.DAL.dll
+C:\Users\m.waqas\source\repos\PosApplication\Pos.DAL\obj\Debug\netcoreapp3.1\Pos.DAL.pdb

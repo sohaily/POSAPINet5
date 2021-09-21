@@ -1,0 +1,17 @@
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.BLL\bin\Release\net5.0\Pos.BLL.deps.json
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.BLL\bin\Release\net5.0\Pos.BLL.dll
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.BLL\bin\Release\net5.0\ref\Pos.BLL.dll
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.BLL\bin\Release\net5.0\Pos.BLL.pdb
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.BLL\bin\Release\net5.0\Pos.DAL.dll
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.BLL\bin\Release\net5.0\Pos.Entities.dll
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.BLL\bin\Release\net5.0\Pos.DAL.pdb
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.BLL\bin\Release\net5.0\Pos.Entities.pdb
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.BLL\obj\Release\net5.0\Pos.BLL.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.BLL\obj\Release\net5.0\Pos.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.BLL\obj\Release\net5.0\Pos.BLL.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.BLL\obj\Release\net5.0\Pos.BLL.AssemblyInfo.cs
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.BLL\obj\Release\net5.0\Pos.BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.BLL\obj\Release\net5.0\Pos.BLL.csproj.CopyComplete
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.BLL\obj\Release\net5.0\Pos.BLL.dll
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.BLL\obj\Release\net5.0\ref\Pos.BLL.dll
+C:\Users\HP\Downloads\PosApplication\PosApplication\Pos.BLL\obj\Release\net5.0\Pos.BLL.pdb
